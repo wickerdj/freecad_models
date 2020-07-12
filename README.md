@@ -11,7 +11,7 @@ The fcstd1 files are a type of backup file that is auto-created by FreeCAD. I am
     - ResistorBox is my first attempt at simple resistor box.
     - ResistorBoxReworkBottom is new version of the ResistorBox. In this case, I applied more of learning on FreeCAD. I am also trying a different way of handling documents in FreeCAD.
     - ResistorBoxReworkTop is new version of the ResistorBox. In this case, I applied more of learning on FreeCAD. I am also trying a different way of handling documents in FreeCAD.
-    - SimpleCaseForUsbMemorStick. I need a simple case for a thumb drive. This could use refinement.
+    - SimpleCaseForUsbMemoryStick. I need a simple case for a thumb drive. This could use refinement.
   - clips
     - CargoNetCLipIdeas - playing with ideas for making a clip/hook to link a cargo net to tie down points
     - S-clip - needed a simple s shape with notchs in the top an bottom arms. The main idea is help increase the tension on some belts.
