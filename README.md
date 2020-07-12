@@ -23,6 +23,9 @@ The fcstd1 files are a type of backup file that is auto-created by FreeCAD. I am
     - ImpossibleDovetail3 is my third attempt. I learned enough to make something that is printable. The tolerances on the first print was too tight. I applied a tweak to the model that got something workable.
     - ImpossibleDovetailRework is my fourth attempt. In this version, I fixed several issues with the basic sketch and I am working more with tolerances.
   - SimonSonicScrewdriver - Simon designed his own Sonic Screwdriver. I am working on the model to 3D print and helping him with the real world aspects of the project.
+  - suspended_ceiling
+    - suspended_ceiling_clip - inspired from a [Suspended Ceiling Clip](https://www.thingiverse.com/thing:84947) on Thinkgiverse. This version is meant to give me more practice with FreeCAD.
+    - suspended_ceiling_clip_split - playing with idea of a U shape.
 - learn - files intended to learn about FreeCAD
   - AngleIronConstructiveSolidGeometry is from a tutorail.
   - AngleIronByExtrudingProfile is from a tutorial.
