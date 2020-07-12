@@ -8,14 +8,16 @@ The fcstd1 files are a type of backup file that is auto-created by FreeCAD. I am
 
 - 3d-printing - files intended for 3D Printing
   - boxes
-    - ResistorBox is my first attempt at simple resistor box.
-    - ResistorBoxReworkBottom is new version of the ResistorBox. In this case, I applied more of learning on FreeCAD. I am also trying a different way of handling documents in FreeCAD.
-    - ResistorBoxReworkTop is new version of the ResistorBox. In this case, I applied more of learning on FreeCAD. I am also trying a different way of handling documents in FreeCAD.
-    - SimpleCaseForUsbMemoryStick. I need a simple case for a thumb drive. This could use refinement.
+    - ResistorBox is my first attempt at simple resistor box. File contains a top and bottom.
+    - ResistorBoxReworkBottom is new version of the ResistorBox.
+    - ResistorBoxReworkTop is new version of the ResistorBox.
+    - SimpleCaseForUsbMemoryStick. I needed a simple enclosure for a thumb drive. The original enclosure suffered damage from handling over the years. This model could use refinement.
   - clips
-    - CargoNetCLipIdeas - playing with ideas for making a clip/hook to link a cargo net to tie down points
-    - S-clip - needed a simple s shape with notchs in the top an bottom arms. The main idea is help increase the tension on some belts.
-  - electorics
+    - CargoNetClipIdeas - playing with ideas for making a clip/hook to link a cargo net to tie down points. This file contains multiple models.
+    - S-clip - needed a simple 'S' shape with notches on the top an bottom arms. The main idea for this model is to help increase the tension on belts for the He3D printer.
+    - suspended_ceiling_clip - inspired from a [Suspended Ceiling Clip](https://www.thingiverse.com/thing:84947) on Thinkgiverse. This version is meant to give me more practice with FreeCAD. I wanted a version with a larger center hole than the original. I have tried to go back to tke sketch to make modifications, for some reason FreeCAD is not allowing me to make edits.
+    - suspended_ceiling_clip_split - playing with idea of a U shape. I was learning how to use the fillet tool
+  - electronics
     - ElectronicsLabCore - starting platform that could be used to assemble electronics project on. The central plate is a little bigger than a raspberry pi. The individual plates would have tab and slots to allow the additional plates to be hooked together.
   - impossible-dovertail
     - ImpossibleDovetail is my first attempt at creating this object. I mostly used the Parts Workbench to fuse shapes together.
@@ -23,9 +25,6 @@ The fcstd1 files are a type of backup file that is auto-created by FreeCAD. I am
     - ImpossibleDovetail3 is my third attempt. I learned enough to make something that is printable. The tolerances on the first print was too tight. I applied a tweak to the model that got something workable.
     - ImpossibleDovetailRework is my fourth attempt. In this version, I fixed several issues with the basic sketch and I am working more with tolerances.
   - SimonSonicScrewdriver - Simon designed his own Sonic Screwdriver. I am working on the model to 3D print and helping him with the real world aspects of the project.
-  - suspended_ceiling
-    - suspended_ceiling_clip - inspired from a [Suspended Ceiling Clip](https://www.thingiverse.com/thing:84947) on Thinkgiverse. This version is meant to give me more practice with FreeCAD.
-    - suspended_ceiling_clip_split - playing with idea of a U shape.
 - learn - files intended to learn about FreeCAD
   - AngleIronConstructiveSolidGeometry is from a tutorail.
   - AngleIronByExtrudingProfile is from a tutorial.
